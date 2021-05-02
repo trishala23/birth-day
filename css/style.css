@@ -48,21 +48,7 @@ div#video iframe {
   width: 140px;
   border-radius: 50%;
 }
-#people1 {
-  position: absolute;
-  top: 65px;
-  left: 80px;
-  width: 140px;
-  border-radius: 50%;
-}
-#people2 {
-  position: absolute;
-  
-  bottom:250px;
-  left: 80px;
-  width: 140px;
-  border-radius: 50%;
-}
+
 
 #car {
   position: absolute;
